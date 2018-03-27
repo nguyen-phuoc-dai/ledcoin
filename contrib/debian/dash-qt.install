@@ -1,0 +1,6 @@
+usr/local/bin/led-qt usr/bin
+share/pixmaps/led32.xpm usr/share/pixmaps
+share/pixmaps/led16.xpm usr/share/pixmaps
+share/pixmaps/led128.png usr/share/pixmaps
+debian/led-qt.desktop usr/share/applications
+debian/led-qt.protocol usr/share/kde4/services/

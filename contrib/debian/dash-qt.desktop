@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Led
+Comment=Led P2P Cryptocurrency
+Comment[fr]=Led, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Led, eşten eşe kriptografik sanal para birimi
+Exec=led-qt %u
+Terminal=false
+Type=Application
+Icon=led128
+MimeType=x-scheme-handler/led;
+Categories=Office;Finance;

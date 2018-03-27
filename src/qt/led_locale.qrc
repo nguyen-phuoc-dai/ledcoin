@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/led_bg.qm</file>
+        <file alias="de">locale/led_de.qm</file>
+        <file alias="en">locale/led_en.qm</file>
+        <file alias="es">locale/led_es.qm</file>
+        <file alias="fi">locale/led_fi.qm</file>
+        <file alias="fr">locale/led_fr.qm</file>
+        <file alias="it">locale/led_it.qm</file>
+        <file alias="ja">locale/led_ja.qm</file>
+        <file alias="pl">locale/led_pl.qm</file>
+        <file alias="pt">locale/led_pt.qm</file>
+        <file alias="ru">locale/led_ru.qm</file>
+        <file alias="sk">locale/led_sk.qm</file>
+        <file alias="sv">locale/led_sv.qm</file>
+        <file alias="vi">locale/led_vi.qm</file>
+        <file alias="zh_CN">locale/led_zh_CN.qm</file>
+        <file alias="zh_TW">locale/led_zh_TW.qm</file>
+    </qresource>
+</RCC>

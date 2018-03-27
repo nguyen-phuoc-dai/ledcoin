@@ -1,0 +1,3 @@
+debian/manpages/ledd.1
+debian/manpages/led.conf.5
+debian/manpages/led-cli.1
