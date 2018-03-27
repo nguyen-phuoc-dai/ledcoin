@@ -1,9 +1,8 @@
 Led Core staging tree 0.12.2
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/ledpay/led.svg?branch=master)](https://travis-ci.org/ledpay/led) `develop:` [![Build Status](https://travis-ci.org/ledpay/led.svg?branch=develop)](https://travis-ci.org/ledpay/led/branches)
 
-https://www.led.org
+https://www.terawattled.com
 
 
 What is Led?
@@ -15,8 +14,6 @@ to operate with no central authority: managing transactions and issuing money
 are carried out collectively by the network. Led Core is the name of the open
 source software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Led Core software, see https://www.led.org/get-led/.
 
 
 License
@@ -25,12 +22,6 @@ License
 Led Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
-Development Process
--------------------
-
-The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/ledpay/led/tags) are created to indicate new official,
-stable release versions of Led Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -73,5 +64,3 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
-
-Translators should also follow the [forum](https://www.led.org/forum/topic/led-worldwide-collaboration.88/).
