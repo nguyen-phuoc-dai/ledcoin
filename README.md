@@ -1,4 +1,5 @@
-Led Core staging tree 0.12.2
+`master:` [![Build Status](https://travis-ci.org/terawattled/ledcoin.svg?branch=master)](https://travis-ci.org/terawattled/ledcoin) 
+Led Core staging tree 0.10.1
 ===============================
 
 
