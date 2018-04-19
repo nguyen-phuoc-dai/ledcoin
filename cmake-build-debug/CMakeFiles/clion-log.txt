@@ -1,4 +1,4 @@
 Cannot generate into /home/ronnie173/ledcoin/cmake-build-debug
-It is already used for project /Users/jeromeraymond/ledcoin
+It is already used for project /home/ronnie173/Developer/ledcointest
 
 Please either delete it manually or select another generation directory
